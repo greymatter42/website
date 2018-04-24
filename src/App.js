@@ -27,7 +27,26 @@ class App extends Component {
                 </Col>
               </Row>
             </Container>
-           
+            <Container className="features">
+              <hr />
+              <p className="lead">
+                {" "}
+              </p>
+              <p />
+              <h6>End-to-End encryption</h6>
+              <p>
+              </p>
+              <h6>Self destruction</h6>
+              <p>
+              </p>
+              <h6>No accounts needed</h6>
+              <p>
+              </p>
+              <h6>Open source software</h6>
+              <p>
+              </p>
+            </Container>
+          </div>
           <Container className="text-center">
             <div className="text-muted small">
               Created by{" "}

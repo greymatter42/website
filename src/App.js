@@ -33,18 +33,6 @@ class App extends Component {
                 {" "}
               </p>
               <p />
-              <h6>End-to-End encryption</h6>
-              <p>
-              </p>
-              <h6>Self destruction</h6>
-              <p>
-              </p>
-              <h6>No accounts needed</h6>
-              <p>
-              </p>
-              <h6>Open source software</h6>
-              <p>
-              </p>
             </Container>
           </div>
           <Container className="text-center">

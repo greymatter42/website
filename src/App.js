@@ -27,38 +27,7 @@ class App extends Component {
                 </Col>
               </Row>
             </Container>
-            <Container className="features">
-              <hr />
-              <p className="lead">
-                {" "}
-                Yopass is created to reduce the amount of clear text passwords
-                stored in email and chat conversations by encrypting and
-                generating a short lived link which can only be viewed once.
-              </p>
-              <p />
-              <h6>End-to-End encryption</h6>
-              <p>
-                Both encryption and decryption are being made locally in the
-                browser, the decryption key is not stored with yopass.
-              </p>
-              <h6>Self destruction</h6>
-              <p>
-                All messages have a fixed time to live and will be deleted
-                automatically after expiration.
-              </p>
-              <h6>No accounts needed</h6>
-              <p>
-                No additional information except the encrypted secret is stored
-                in the database.
-              </p>
-              <h6>Open source software</h6>
-              <p>
-                Yopass fully open source meaning full transparency and the
-                possibility to submit features, fix bugs or run the software
-                yourself.
-              </p>
-            </Container>
-          </div>
+           
           <Container className="text-center">
             <div className="text-muted small">
               Created by{" "}

@@ -10,7 +10,7 @@ class App extends Component {
       <Router>
         <div className="App">
           <Navbar color="dark" dark expand="md">
-            <NavbarBrand href="/">Yopass</NavbarBrand>
+            <NavbarBrand href="/">BSG Yopass</NavbarBrand>
           </Navbar>
           <div>
             <Container className="margin">
